@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ AI SOẠN KHBD (NLS)</h1>
-    <p>Tác giả: Sùng Văn Quý - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0974 109 364364</p>
+    <p>Tác giả: Sùng Văn Quý - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0974 109 364</p>
 </div>
 """, unsafe_allow_html=True)
 
